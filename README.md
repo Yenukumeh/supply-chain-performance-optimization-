@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project provides an end-to-end operational analysis of a rising Fashion and Beauty startup handling hair care, skin care, and cosmetic products. The objective was to build a data pipeline that uncovers logistical friction points, audits carrier cost efficiencies, and exposes vulnerabilities within the manufacturing and supplier network.
 
 ---
@@ -40,9 +40,9 @@ The engineered database was connected to Power BI to construct an executive-leve
 
 ---
 
-## 💡 Core Operational Insights
+## Core Operational Insights
 
-### 💰 The Financial Reality Check & Logistics Freedom
+###  The Financial Reality Check & Logistics Freedom
 Our high-level financials look exceptionally healthy. The brand brought in **$578K in total revenue** and retained a powerful **$524K in total profit**. Looking directly at our primary direct shipping fees, they sit at a remarkably lean baseline total of **$554.82**. Keeping direct carrier expenses this low indicates that our top-line margins are completely safe from fulfillment leakage. This exceptional cost containment gives the startup the capital freedom to shift toward faster, premium logistics pipelines without sacrificing overall brand profitability.
 
 ### 🚚 Logistics & Route Efficiency
@@ -60,7 +60,7 @@ Mapping suppliers by defect rate vs. lead time revealed the absolute absence of 
 
 ---
 
-## 🎯 Final Business Recommendations
+##  Final Business Recommendations
 1. **Optimize Carrier Modes:** Leverage our exceptionally high profit margins to shift our high-volume Hair and Skin care lines off slower transit routes and scale up faster freight agreements to protect customer retention.
 2. **Eliminate or Restructure Critical Suppliers:** Immediately audit Supplier 2 and Supplier 4. Because they are both slow and volatile, we should look for alternative manufacturing partners to replace them entirely if they cannot meet baseline standards.
 3. **Address the Manufacturing Speed/Quality Trade-off:** Hold Suppliers 3 and 5 accountable to tighten their quality controls to drop that 3% defect rate. Simultaneously, collaborate with Supplier 1 to help them reduce their 17-day manufacturing delay and pull it closer to our 15.96-day average.
