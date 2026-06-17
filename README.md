@@ -64,14 +64,3 @@ Mapping suppliers by defect rate vs. lead time revealed the absolute absence of 
 
 ---
 
-## 📂 Repository Structure
-```text
-├── data/
-│   └── cleaned_supply_chain_dataset.csv   # Processed, verified dataset used for BI modeling
-├── notebooks/
-│   └── supply_chain_eda.ipynb            # Jupyter Notebook covering Python EDA & data profiling
-├── sql/
-│   └── supply_chain_db.sql               # Database schema initialization and analytical queries
-├── dashboard/
-│   └── Supply_Chain_Dashboard.pbix       # Complete Power BI file containing data model & DAX
-└── README.md                             # Project documentation
