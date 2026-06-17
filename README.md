@@ -64,3 +64,10 @@ Mapping suppliers by defect rate vs. lead time revealed the absolute absence of 
 
 ---
 
+## 📂 Repository Structure
+
+* **raw_supply_chain_dataset.csv** — Original, unedited raw data source
+* **cleaned_supply_chain_dataset.csv** — Preprocessed, verified dataset used for BI modeling
+* **supply_chain_queries.sql** — SQL scripts for database initialization and analysis
+* **Supply_Chain_Dashboard.pbix** — Complete interactive Power BI dashboard file
+* **README.md** — Project documentation
