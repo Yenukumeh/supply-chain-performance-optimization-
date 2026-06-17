@@ -24,7 +24,7 @@ This project provides an end-to-end operational analysis of a rising Fashion and
 
 ---
 
-## ⚙️ Technical Pipeline Implementation
+##  Technical Pipeline Implementation
 
 ### 1. Exploratory Data Analysis & Data Wrangling (Python)
 Before moving the raw data into a database system, I conducted data profiling and cleaning to ensure absolute data integrity:
@@ -45,10 +45,10 @@ The engineered database was connected to Power BI to construct an executive-leve
 ###  The Financial Reality Check & Logistics Freedom
 Our high-level financials look exceptionally healthy. The brand brought in **$578K in total revenue** and retained a powerful **$524K in total profit**. Looking directly at our primary direct shipping fees, they sit at a remarkably lean baseline total of **$554.82**. Keeping direct carrier expenses this low indicates that our top line margins are completely safe from fulfillment leakage. This exceptional cost containment gives the startup the capital freedom to shift toward faster, premium logistics pipelines without sacrificing overall brand profitability.
 
-### 🚚 Logistics & Route Efficiency
+###  Logistics & Route Efficiency
 The dashboard analysis of shipping routes and transportation modes indicates a heavy reliance on cost effective but slow shipping methods. By visualizing transit times by route, I identified that certain sea lanes are causing delivery bottlenecks. While these routes keep our direct shipping costs minimized, they are negatively impacting our Average Lead Time against our benchmark of **15.96 days**. We are protecting our wallet on shipping fees, but we are paying for it with customer wait times.
 
-### ⚠️ Manufacturing & Quality Risk
+###  Manufacturing & Quality Risk
 * **Production Volume Mismatch:** Cross referencing production volume with product defect rates revealed that our highest manufacturing output (**24K units**) is concentrated in the Hair Care (2.5% defect) and Skin Care (2.3% defect) segments, which are our most defect prone categories. We are actively mass-producing our most flawed inventory, causing cost wastage.
 * **Cosmetics Stability:** Our core Cosmetics line is our most structurally sound category, maintaining the lowest error rate at 1.9%.
 
@@ -67,7 +67,7 @@ Mapping suppliers by defect rate vs. lead time revealed the absolute absence of 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 * **raw_supply_chain_dataset.csv** — Original, unedited raw data source
 * **cleaned_supply_chain_dataset.csv** — Preprocessed, verified dataset used for BI modeling
