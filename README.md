@@ -17,7 +17,9 @@ This project provides an end-to-end operational analysis of a rising Fashion and
 ---
 
 ##  Executive Dashboard
-<img src="image.png" alt="Supply Chain Optimization Dashboard" width="100%">
+
+<img width="902" height="502" alt="Supply Chain Optimization Dashboard" src="https://github.com/user-attachments/assets/5959ebf2-9d94-43ef-b7cc-08ae85115023" />
+
 
 
 ---
