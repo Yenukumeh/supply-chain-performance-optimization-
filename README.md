@@ -9,7 +9,7 @@ This project provides an end-to-end operational analysis of a rising Fashion and
 
 ---
 
-## 🛠️ Data Architecture Pipeline
+##  Data Architecture Pipeline
 1. **Data Cleaning & EDA:** Python (`Pandas`, `NumPy`) in Jupyter Notebooks.
 2. **Database Engineering & Schema Design:** MySQL Workbench.
 3. **Data Visualization & Business Intelligence:** Power BI (Custom UI layout designed in Figma).
